@@ -1,0 +1,24 @@
+{
+   "sessionName": "ramlanid",
+   "ownerNumber": "6285814277864@s.whatsapp.net",
+   "ownerName": "Wrtg Store",
+   "botName": "WrtgBotz",
+   "footer": "WrtgBotz",
+   "butName": "Owner",
+   "butLink": "https://wa.me/6285814277864",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "IG :",
+   "author": "wrtgstore",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
